@@ -22,7 +22,8 @@ frist you need to download the auto plugin vpk the i will put a like to the git 
 ## software you need:
 
      auto plugin - https://github.com/theheroGAC/Autoplugin/releases
-
+<br>
+     you can also just clone or downdownload it from my github repo as well.
 <br>
 
 <p>
